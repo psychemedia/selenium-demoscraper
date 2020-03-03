@@ -1,4 +1,4 @@
-__ ARCHIVED: current copy at [ouseful-template-repos/binder-selenium-demoscraper](https://github.com/ouseful-template-repos/binder-selenium-demoscraper]()__
+__ARCHIVED: current copy at [ouseful-template-repos/binder-selenium-demoscraper](https://github.com/ouseful-template-repos/binder-selenium-demoscraper]().__
 
 # selenium-demoscraper
 Demo of using selenium for headless browser webscraping using Firefox
